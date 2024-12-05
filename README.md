@@ -50,4 +50,30 @@ Dự án này được thực hiện nhằm phân tích các chỉ số tài ch�
 - Áp dụng phương pháp P/B: P/B dự phóng ở mức 2.42x tương đương độ lệch chuẩn +1 của trung bình P/B 5 năm của BID, dựa trên triển vọng các chỉ số tài chính cải thiện cũng như kế hoạch tăng vốn điều lệ thêm 23.9% sắp tới.
 - Khuyến nghị trung lập: giá 53,200 đ/cp
 
-link report: [report_bid](report_bid.pdf)
+link report: [BID_report](BID_report.pdf)
+
+![](BID_image_report/1.png)
+
+![](BID_image_report/2.png)
+
+![](BID_image_report/3.png)
+
+![](BID_image_report/4.png)
+
+![](BID_image_report/5.png)
+
+![](BID_image_report/6.png)
+
+![](BID_image_report/7.png)
+
+![](BID_image_report/8.png)
+
+![](BID_image_report/9.png)
+
+![](BID_image_report/10.png)
+
+![](BID_image_report/11.png)
+
+![](BID_image_report/12.png)
+
+![](BID_image_report/13.png)
